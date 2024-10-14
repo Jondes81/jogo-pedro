@@ -1,1 +1,2 @@
-# jogo-pedro
+# JOGO_PEDRO
+JOGO_PEDRO
